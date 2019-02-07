@@ -1,0 +1,14 @@
+{
+  "name": "pre",
+  "version": "1.0.0",
+  "description": "Proxy Re-Encryption library using Bilinear Maps.",
+  "main": "pre.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "xytao",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "mcl-wasm": "^0.3.0"
+  }
+}
